@@ -1,0 +1,22 @@
+# ninja log v5
+2	312	7186256333376635	CMakeFiles/untitled.dir/project/t.c.obj	47a12d9815359750
+1	282	7186257844490748	build.ninja	1fced10f0cdbff75
+2	297	7186145271437533	CMakeFiles/untitled.dir/project/B1.c.obj	10c915e5343a02fa
+2	449	7184620744518845	CMakeFiles/untitled.dir/main.cpp.obj	47325ea4744fcb50
+312	838	7186256338611365	untitled.exe	86ee2166910feb47
+1	367	7184625449544223	CMakeFiles/untitled.dir/Triangle.cpp.obj	cee9f6c072e4bb9a
+2	402	7184640793548538	CMakeFiles/untitled.dir/acc.c.obj	3ec6d8bf73c1ce94
+2	306	7186146960057076	CMakeFiles/untitled.dir/project/B2.c.obj	aad4b7138c06cbcb
+2	332	7186150867382220	CMakeFiles/untitled.dir/project/B3.c.obj	78c15a32d3aa3ca3
+1	296	7186157231271370	CMakeFiles/untitled.dir/project/B4.c.obj	421f570386d2ab35
+1	303	7186164707547248	CMakeFiles/untitled.dir/project/B5.c.obj	c98a41fb76d3bc67
+1	309	7186181386948226	CMakeFiles/untitled.dir/project/B6.c.obj	113b4b539f6013f6
+1	323	7186189411780353	CMakeFiles/untitled.dir/project/C1.c.obj	6a048e6ca1387d82
+1	304	7186210517505818	CMakeFiles/untitled.dir/project/C2.c.obj	c0b80694c5cc2312
+1	327	7186244407970599	CMakeFiles/untitled.dir/project/C3.c.obj	78cbd65f760a44d4
+2	348	7186243175230576	CMakeFiles/untitled.dir/project/C4.c.obj	7f1aed82c484fa8c
+0	935	7186252774057760	CMakeFiles/untitled.dir/project/C5.c.obj	d8ed8e2b90ed30a4
+0	326	7186257889723446	CMakeFiles/untitled.dir/project/C5.c.obj	d8ed8e2b90ed30a4
+327	854	7186257894966175	untitled.exe	5a2ba6794e59a50f
+3	313	7186258649411549	CMakeFiles/untitled.dir/project/C5.c.obj	d8ed8e2b90ed30a4
+313	856	7186258654812614	untitled.exe	5a2ba6794e59a50f
