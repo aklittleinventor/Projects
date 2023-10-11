@@ -7,11 +7,11 @@ int main(){
     printf("Enter marks=");
     scanf("%d",&a);
 
-    if (a==90 && a>90){
+    if (a==b && a>b){
         printf("A grade");
-    }else if(a>70 && a<50 && a==70){
+    }else if(a>c && a<d && a==c){
         printf("B grade");
-    } else if(a>50 && a<90 && a<70 && a==50){
+    } else if(a>d && a<b && a<c && a==d){
         printf("C grade");
     }else{
         printf("D grade");
