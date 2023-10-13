@@ -7,14 +7,17 @@ int main(){
     printf("Enter marks=");
     scanf("%d",&a);
 
-    if (a==b && a>b){
-        printf("A grade");
-    }else if(a>c && a<d && a==c){
+    printf("Your grade for %d is ",a);
+
+    if (a<50){
+        printf("D grade");
+    }else if(a>70 && a<91 ){
         printf("B grade");
-    } else if(a>d && a<b && a<c && a==d){
+    } else
+        if(a>50 && a<71 ){
         printf("C grade");
     }else{
-        printf("D grade");
+        printf("A grade");
     }
     return 0;
 }

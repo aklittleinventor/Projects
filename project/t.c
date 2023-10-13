@@ -1,11 +1,10 @@
 #include "stdio.h"
 int main(){
     int a=0;
-    scanf("%d",&a);
 
-    if(a>6){
-        printf("j");
-    }
+    (a=5-2);
+        printf("%d",a);
+
     return 0;
 }
 
